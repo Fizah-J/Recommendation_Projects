@@ -8,3 +8,5 @@ I am using content-based filtering to give recommendations based on the attribut
 
 - The data currently does not refresh automatically, meaning that the recommendations are based on static data at the time of scraping.
 - The drama titles in the recommender system are displayed as plain text and are not hyperlinked to their respective drama pages. *I'm trying to find if there a workaround on this with Streamlit*.
+
+Link to the recommendation system [here](https://my-drama-mate-recommendation-81c08397e259.herokuapp.com/)
